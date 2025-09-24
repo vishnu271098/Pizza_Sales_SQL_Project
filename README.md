@@ -8,7 +8,16 @@ The queries are divided into chapters (like tasks), and each one highlights diff
 
 ---
 
-<pre> ## 📂 Repository Structure ``` queries/ # SQL scripts for each chapter chapter1_basic_queries.sql chapter2_advanced_queries.sql chapter3_revenue_analysis.sql chapter4_category_analysis.sql results/ # (Optional) CSV outputs from queries data/ # (Optional) sample dataset if shared ``` </pre>
+## 📂 Repository Structure
+```
+queries/                   # SQL scripts for each chapter
+   chapter1_basic_queries.sql
+   chapter2_advanced_queries.sql
+   chapter3_revenue_analysis.sql
+   chapter4_category_analysis.sql
+results/                   # (Optional) CSV outputs from queries
+data/                      # (Optional) sample dataset if shared
+```
 
 ---
 
