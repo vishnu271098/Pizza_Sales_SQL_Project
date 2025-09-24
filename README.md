@@ -15,8 +15,11 @@ queries/                   # SQL scripts for each chapter
    chapter2_advanced_queries.sql
    chapter3_revenue_analysis.sql
    chapter4_category_analysis.sql
+orders.csv                 # Orders table
+order_details.csv          # Order details table
+pizzas.csv                 # Pizzas table
+pizza_types.csv            # Pizza types table
 results/                   # (Optional) CSV outputs from queries
-data/                      # (Optional) sample dataset if shared
 ```
 
 ---
