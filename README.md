@@ -19,7 +19,11 @@ orders.csv                 # Orders table
 order_details.csv          # Order details table
 pizzas.csv                 # Pizzas table
 pizza_types.csv            # Pizza types table
-results/                   # (Optional) CSV outputs from queries
+dataset/
+orders.csv                 # Orders table
+order_details.csv          # Order details table
+pizzas.csv                 # Pizzas table
+pizza_types.csv            # Pizza types table
 ```
 
 ---
