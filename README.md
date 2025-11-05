@@ -68,6 +68,21 @@ pizza_types.csv            # Pizza types table
 
 ---
 
+## 📊 Power BI Dashboard
+The Power BI dashboard visualizes key sales insights derived from SQL queries.
+
+**Highlights:**
+- Total Revenue: ₹801.9K  
+- Total Orders: 21.35K  
+- Top Categories: Classic (30%), Chicken (24%), Supreme (23%)  
+- KPIs: Average Pizza per Day, Highest Priced Pizza
+
+---
+
+<img width="959" height="538" alt="dashboard_preview" src="https://github.com/user-attachments/assets/c4274314-6895-4ac9-b2c0-d665b43a028a" />
+
+---
+
 ## 🙋 About
 Created by **Vishnu Elangovan** as a portfolio project to showcase SQL for data analysis.  
 Feel free to explore, fork, or suggest improvements!
