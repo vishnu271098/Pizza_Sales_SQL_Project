@@ -1,8 +1,8 @@
 # 🍕 Pizza Sales SQL Analysis Project
 
 ## 📌 Overview
-This project explores a Pizza Sales dataset using SQL queries.  
-The goal is to demonstrate analytical SQL skills — from basic aggregations to advanced window functions, ranking, and revenue analysis.
+This project explores a Pizza Sales dataset using **SQL queries** and **Power BI dashboards**.
+The goal is to demonstrate analytical SQL skills — from basic aggregations to advanced window functions, ranking, and revenue analysis — and to visualize insights using **Power BI** for business decision-making.
 
 The queries are divided into chapters (like tasks), and each one highlights different SQL concepts commonly used in real business analysis.
 
@@ -21,6 +21,10 @@ orders.csv                 # Orders table
 order_details.csv          # Order details table
 pizzas.csv                 # Pizzas table
 pizza_types.csv            # Pizza types table
+
+dashboard/                 # Power BI dashboard and visuals
+   Pizza_Sales_Dashboard.pbix
+   dashboard_preview.png
 ```
 
 ---
